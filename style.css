@@ -238,6 +238,7 @@ nav{
     border-radius: 10% 30% 10% 30%;
     overflow: hidden;
     animation: imgFloat 7s ease-in-out infinite;
+    box-shadow: 1px 8px 10px 2px  rgb(240, 214, 44);
    
 }
 .image img{
