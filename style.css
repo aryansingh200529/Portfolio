@@ -281,6 +281,7 @@ nav{
     font-weight: 600;
     color: var(--text-color-second);
     margin-bottom: 10px;
+     text-decoration: underline rgb(20, 132, 217) ;
 }
 .top-header span{
     color: #999;
