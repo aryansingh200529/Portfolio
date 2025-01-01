@@ -235,9 +235,10 @@ nav{
     margin: auto 0;
     width: 380px;
     height: 380px;
-    border-radius: 55% 45% 55% 45%;
+    border-radius: 10% 30% 10% 30%;
     overflow: hidden;
     animation: imgFloat 7s ease-in-out infinite;
+   
 }
 .image img{
     width: 380px;
@@ -246,8 +247,8 @@ nav{
 }
 @keyframes imgFloat {
     50%{
-        transform: translateY(10px);
-        border-radius: 45% 55% 45% 55%;
+        transform: translateY(5px);
+        border-radius: 10% 40% 10% 40%;
     }
 }
 
